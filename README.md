@@ -4,7 +4,7 @@ Submitted by: **Animesh Niraula**
 
 This web app: **DevConnect** is a forum for developers and AI enthusiasts to ask questions, share their work, discuss ideas, and connect with other builders. It uses React, Vite, Supabase Auth, Postgres, Storage, and a custom responsive interface.
 
-Time spent: **[fill in your own hours]** hours in total.
+Time spent: **6** hours in total.
 
 ## Required Features
 
@@ -44,11 +44,13 @@ The following **additional** features are implemented:
 
 Here is a walkthrough of the DevConnect interface and sample interactions in local preview mode:
 
-<img src="assets/walkthrough.gif" title="Video Walkthrough" width="960" alt="DevConnect GIF walkthrough" />
-
-GIF created from automated local browser screenshots using FFmpeg.
-
-> The GIF demonstrates the local preview interface. **Before submitting**, record an updated GIF of your **live Supabase-connected app**, showing the required CRUD/comments/upvote features. Replace `assets/walkthrough.gif` with that recording.
+<div>
+    <a href="https://www.loom.com/share/9d29090f490d4c45b54ed74d6aa29e55">
+    </a>
+    <a href="https://www.loom.com/share/9d29090f490d4c45b54ed74d6aa29e55">
+      <img style="max-width:300px;" src="https://www.loom.com/v1/videos/9d29090f490d4c45b54ed74d6aa29e55/thumbnail.gif">
+    </a>
+  </div>
 
 ## How to Run This Project
 
